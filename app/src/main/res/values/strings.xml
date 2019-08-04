@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Travelmantics</string>
+    <string name="number_in_decimals">number in decimals</string>
+    <string name="description">description</string>
+    <string name="title">Title</string>
+    <string name="save_menu">Save</string>
+    <string name="delete">Delete</string>
+    <string name="logout">Logout</string>
+    <string name="add_new_entry">add new entry</string>
+    <string name="title_hint">Deal Title</string>
+    <string name="price_hint">Prince (numbers only</string>
+    <string name="description_hint">Description</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "540717088784",
+    "firebase_url": "https://tranvelmantics-87bcd.firebaseio.com",
+    "project_id": "tranvelmantics-87bcd",
+    "storage_bucket": "tranvelmantics-87bcd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540717088784:android:5400c5c70b01ff88",
+        "android_client_info": {
+          "package_name": "com.example.tranvelmantics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540717088784-m0nljf49vmercnmeg9hehaohrlfv0tpf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tranvelmantics",
+            "certificate_hash": "8ff26ff136ff5218ec31d3e3e0fbddb807ca4a14"
+          }
+        },
+        {
+          "client_id": "540717088784-u5a2rmfl0a8cdvsqc27e180rri73djgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZe5jrOeY9JeJMlUmmIklAyZiFxJPGy-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540717088784-u5a2rmfl0a8cdvsqc27e180rri73djgi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
